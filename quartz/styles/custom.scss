@@ -1,3 +1,23 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.page-title {
+  letter-spacing: -0.01em;
+}
+
+// Accent line under page titles
+article > h1::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 2px;
+  background: var(--secondary);
+  margin-top: 0.5rem;
+  border-radius: 1px;
+}
+
+// Style dice roll blocks (if you use a callout for them)
+blockquote {
+  border-left: 2px solid var(--tertiary);
+  background: var(--highlight);
+}
