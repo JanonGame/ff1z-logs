@@ -27,6 +27,7 @@ import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
 import { capitalize } from "../../util/lang"
 import { PluggableList } from "unified"
+import remarkBreaks from "remark-breaks"
 
 export interface Options {
   comments: boolean
@@ -210,6 +211,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
     },
     markdownPlugins(ctx) {
       const plugins: PluggableList = []
+
+      plugins.push(remarkBreaks)
 
       // regex replacements
       plugins.push(() => {
