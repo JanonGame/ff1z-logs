@@ -14,7 +14,7 @@
 >
 >still shines as bright as ever.
 
-
+![[Cornelia.jpg]]
 
 Iomene and Luthien arrive in Cornelia aboard the Gaelicat, an aging car that Iomene has nursed back to life through sheer stubbornness and what she calls a passion for engineering. 
 They have been on the road looking for a missing relative, a search that took an unexpected turn when Iomene's old military uniform drew the wrong kind of attention. One misunderstanding led to another, and before long the fastest way out was through Cornelia.

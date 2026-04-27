@@ -10,6 +10,7 @@ A voice carries up from the lower level. It takes a moment to place it.
 > [!dlg-guiscard-r] Guiscard
 > "Dear lord, I hope he doesn't think he's getting paid for coming all the way out here."
 
+![[Chaos_Shrine_Temple_Outside.png]]
 > [!dlg-tiz] Tiz
 > "Thank goodness it's you three.
 >
@@ -129,11 +130,13 @@ They can feel it now, as they climb the final stairs. The same charge as the oth
 > [!dlg-iomene-r] Iomene
 > "Oh, I sometimes get this feeling when touching a handrail on an escalator."
 
-They enter the top room.
+They enter the last floor.
 
 ---
 
 # Bad Knight? Good Night for you
+
+![[Chaos_Shrine_Last_Floor.png]]
 
 Princess Sarah is already there, her voice tight with desperation. Garland stands over the statues, the ritual almost complete.
 
@@ -183,7 +186,9 @@ Luthien gets one more question in before he moves.
 > [!dlg-luthien] Luthien
 > "When did you first hear *his* words?"
 
-It lands. Garland flinches. Then the fight begins.
+Garland flinches. Then the fight begins.
+
+![[GarlandThrone.png]]
 
 Guiscard passes the Black Crystal to Altan as the party spreads out. Iomene lights Garland up with magic, outlining him in violet so no one can miss their mark. Audra enters her Dragoon's Trance, leaps thirty feet into the air, and comes down hard. Tiz fights his way through the fear, succeeds, and lands two solid hits, which is when Garland finally looks at him and recognizes him.
 

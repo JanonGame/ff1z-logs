@@ -29,11 +29,14 @@ They pull up at 0645.
 > [!narration]
 > The Chaos Shrine's front entrance is open, and the four are nowhere to be seen as the party approach. The mayhem outside of the shrine is terrible, as monsters seem to be attacking from all sides.
 
+![[Chaos_Shrine_Temple_Nearing.png]]
+
 > [!dlg-luthien] Luthien
 > "It appears we've arrived first."
 
 They have not. From inside, Silas is already yelling for help, tangled up with a hobgoblin and a handful of goblins who had been hiding in the entry hall. The party wades in and make short work of the goblins. Turns out, Silas was in less danger than they thought, as he ultimately succeeds in cleaving the hobgoblin in half with his greatsword.
 
+![[Chaos_Shrine_First_Room.png]]
 > [!dlg-silas] Silas
 > "Hah! Serves you right!"
 
@@ -93,6 +96,8 @@ Luthien floats a compromise: if it turns out to be a valuable gem with no other 
 # Dances with Wolves
 
 They find Brigid crouched at the far end of a long room, very still. She spots them and immediately puts a finger to her lips. She points to herself, then up a stone boardwalk along the wall. Then she signals Altan to strike.
+
+![[Chaos_Shrine_Temple_Area.png]]
 
 The room is full of wolves.
 
